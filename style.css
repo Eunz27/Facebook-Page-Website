@@ -127,8 +127,9 @@ input[type="submit"] {
 
 body {
   background-image: url("https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/311073925_115439764658356_3861746765389943913_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEtEWiLeGOwtALFxR9b-4z9j5L4f8TD5zuPkvh_xMPnO2wxig4b-3niaAlVxP3MhBIwgTMYp5wDrAujYrBbCnoG&_nc_ohc=AcwRPDs4oSEAX9SH4rg&_nc_ht=scontent.fmnl25-4.fna&oh=00_AfDu359OQ97qUmWZjG2ZeFj_AsDcXewTNdpFUQsnkmU5EA&oe=640B9852");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat: inherit;
+  background-size: contain;
   background-attachment: fixed;
 }
+
 
